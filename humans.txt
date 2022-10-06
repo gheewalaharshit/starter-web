@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Harshit Team> -- <role> -- <twitter>
 
 # THANKS
 
